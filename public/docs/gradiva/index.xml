@@ -1,25 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gradiva ADŽ on Gradiva in prezentacije</title><link>//localhost:1313/docs/gradiva/</link><description>Recent content in Gradiva ADŽ on Gradiva in prezentacije</description><generator>Hugo</generator><language>sl-si</language><atom:link href="//localhost:1313/docs/gradiva/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</guid><description>&lt;h1 id="posameznik-in-družba--osebne-težave-in-družbeni-problemi">
- Posameznik in družba – osebne težave in družbeni problemi
- &lt;a class="anchor" href="#posameznik-in-dru%c5%beba--osebne-te%c5%beave-in-dru%c5%bebeni-problemi">#&lt;/a>
-&lt;/h1>
-&lt;p>Posamezniki imamo v svojem življenju težave. Na primer nimam dovolj denarja, da bi si kupil, kar bi si rad. Na primer se prepiram s partnerko.&lt;/p>
-&lt;p>Naše težave pa niso vedno posledica samo naših dejanj: morda nimam denarja tudi zato, ker je v državi gospodarska kriza. Morda se prepiram z ženo, ker nimam dovolj časa zanjo, ker moram zaradi te gospodarske krize delati ogromno nadur.&lt;/p></description></item><item><title>1,5. Obveznosti pri aktivnem državljanstvu – 2.F</title><link>//localhost:1313/docs/gradiva/1.2.-obveznosti---2.f/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/gradiva/1.2.-obveznosti---2.f/</guid><description>&lt;h1 id="obveznosti-pri-aktivnem-državljanstvu--2f">
- Obveznosti pri aktivnem državljanstvu – 2.F
- &lt;a class="anchor" href="#obveznosti-pri-aktivnem-dr%c5%beavljanstvu--2f">#&lt;/a>
-&lt;/h1>
-&lt;p>Predmet opravite z sprotnim opravljanjem nalog, ki vam jih zadam med poukom. Naloge bodo sporočene tudi preko e-asistenta. Vaše naloge so torej sledeče:&lt;/p>
-&lt;ul>
-&lt;li>Spremljanje komunikacijo preko e-asistenta.&lt;/li>
-&lt;li>Sproti oddajajte naloge.&lt;/li>
-&lt;li>Papirnato gradivo in naloge shranjujete v mapo, da imate ob koncu leta dokazilo, da ste opravili obveznosti.&lt;/li>
-&lt;/ul>
-&lt;p>Ob koncu šolskega leta bom individualno pregledal koliko obveznosti je katera dijakinja oziroma dijak opravil. Glede na količino neopravljenih obveznosti dobite dopolnilno nalogo, s katero nadoknadite neopravljene obveznosti. Če skozi leto sproti opravite vse obveznosti, seveda ob koncu leta dopolnilne naloge ne dobite.&lt;/p></description></item><item><title>1. Obveznosti pri aktivnem državljanstvu</title><link>//localhost:1313/docs/gradiva/1.-obveznosti/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>//localhost:1313/docs/gradiva/1.-obveznosti/</guid><description>&lt;h1 id="obveznosti-pri-aktivnem-državljanstvu">
- Obveznosti pri aktivnem državljanstvu
- &lt;a class="anchor" href="#obveznosti-pri-aktivnem-dr%c5%beavljanstvu">#&lt;/a>
-&lt;/h1>
-&lt;p>Predmet opravite z sprotnim opravljanjem nalog, ki vam jih zadam med poukom. Naloge bodo sporočene tudi preko e-asistenta in spletne učilnice. V tem kontekstu imate dve nalogi:&lt;/p>
-&lt;ul>
-&lt;li>Spremljanje spletne učilnice.&lt;/li>
-&lt;li>Papirnato gradivo in naloge shranjujete v mapo, da imate ob koncu leta dokazilo, da ste opravili obveznosti.&lt;/li>
-&lt;/ul>
-&lt;p>Ob koncu šolskega leta bom individualno pregledal koliko obveznosti je katera dijakinja oziroma dijak opravil. Glede na količino neopravljenih obveznosti dobite dopolnilno nalogo, s katero nadoknadite neopravljene obveznosti. Če skozi leto sproti opravite vse obveznosti, seveda ob koncu leta dopolnilne naloge ne dobite.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gradiva ADŽ on Gradiva in prezentacije</title>
+    <link>//localhost:1313/docs/gradiva/</link>
+    <description>Recent content in Gradiva ADŽ on Gradiva in prezentacije</description>
+    <generator>Hugo</generator>
+    <language>sl-si</language>
+    <atom:link href="//localhost:1313/docs/gradiva/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obveznosti pri aktivnem državljanstvu</title>
+      <link>//localhost:1313/docs/gradiva/1.-obveznosti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/gradiva/1.-obveznosti/</guid>
+      <description>&lt;h1 id=&#34;obveznosti-pri-aktivnem-državljanstvu&#34;&gt;&#xA;  Obveznosti pri aktivnem državljanstvu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#obveznosti-pri-aktivnem-dr%c5%beavljanstvu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Predmet opravite z sprotnim opravljanjem nalog, ki vam jih zadam med poukom. Naloge bodo sporočene tudi preko e-asistenta in spletne učilnice. V tem kontekstu imate dve nalogi:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spremljanje spletne učilnice.&lt;/li&gt;&#xA;&lt;li&gt;Papirnato gradivo in naloge shranjujete v mapo, da imate ob koncu leta dokazilo, da ste opravili obveznosti.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ob koncu šolskega leta bom individualno pregledal koliko obveznosti je katera dijakinja oziroma dijak opravil. Glede na količino neopravljenih obveznosti dobite dopolnilno nalogo, s katero nadoknadite neopravljene obveznosti. Če skozi leto sproti opravite vse obveznosti, seveda ob koncu leta dopolnilne naloge ne dobite.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Obveznosti pri aktivnem državljanstvu – 2.F</title>
+      <link>//localhost:1313/docs/gradiva/1.2.-obveznosti---2.f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/gradiva/1.2.-obveznosti---2.f/</guid>
+      <description>&lt;h1 id=&#34;obveznosti-pri-aktivnem-državljanstvu--2f&#34;&gt;&#xA;  Obveznosti pri aktivnem državljanstvu – 2.F&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#obveznosti-pri-aktivnem-dr%c5%beavljanstvu--2f&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Predmet opravite z sprotnim opravljanjem nalog, ki vam jih zadam med poukom. Naloge bodo sporočene tudi preko e-asistenta. Vaše naloge so torej sledeče:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spremljanje komunikacijo preko e-asistenta.&lt;/li&gt;&#xA;&lt;li&gt;Sproti oddajajte naloge.&lt;/li&gt;&#xA;&lt;li&gt;Papirnato gradivo in naloge shranjujete v mapo, da imate ob koncu leta dokazilo, da ste opravili obveznosti.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Ob koncu šolskega leta bom individualno pregledal koliko obveznosti je katera dijakinja oziroma dijak opravil. Glede na količino neopravljenih obveznosti dobite dopolnilno nalogo, s katero nadoknadite neopravljene obveznosti. Če skozi leto sproti opravite vse obveznosti, seveda ob koncu leta dopolnilne naloge ne dobite.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Posameznik in Družba</title>
+      <link>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</guid>
+      <description>&lt;h1 id=&#34;posameznik-in-družba--osebne-težave-in-družbeni-problemi&#34;&gt;&#xA;  Posameznik in družba – osebne težave in družbeni problemi&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#posameznik-in-dru%c5%beba--osebne-te%c5%beave-in-dru%c5%bebeni-problemi&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Posamezniki imamo v svojem življenju težave. Na primer nimam dovolj denarja, da bi si kupil, kar bi si rad. Na primer se prepiram s partnerko.&lt;/p&gt;&#xA;&lt;p&gt;Naše težave pa niso vedno posledica samo naših dejanj: morda nimam denarja tudi zato, ker je v državi gospodarska kriza. Morda se prepiram z ženo, ker nimam dovolj časa zanjo, ker moram zaradi te gospodarske krize delati ogromno nadur.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</loc></url><url><loc>//localhost:1313/docs/gradiva/15.-obveznosti---2.f/</loc></url><url><loc>//localhost:1313/docs/gradiva/1.-obveznosti/</loc></url><url><loc>//localhost:1313/docs/gradiva/</loc></url><url><loc>//localhost:1313/docs/predstavitve/prezentacije/</loc></url><url><loc>//localhost:1313/categories/</loc></url><url><loc>//localhost:1313/docs/</loc></url><url><loc>//localhost:1313/</loc></url><url><loc>//localhost:1313/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/docs/gradiva/2.-posameznik_in_dru%C5%BEba/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/gradiva/1.2.-obveznosti---2.f/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/gradiva/1.-obveznosti/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/gradiva/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/predstavitve/prezentacije/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/docs/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url>
+</urlset>

@@ -1,4 +1,4 @@
 ---
 title: Gradiva ADŽ
-weight: 10
+weight: 1
 ---
