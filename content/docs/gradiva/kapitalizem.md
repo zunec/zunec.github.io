@@ -29,7 +29,7 @@ Stvari, ki jih ustvarimo, ko delamo za neko podjetje, običajno niso naša last.
 
 Tako pridemo do druge značilnosti kapitalizma:
 
-2. Proizvodnja za trg/prodajo: Podjetja običajno izdelujejo stvari zato, da jih prodajo naprej – ne zato, ker bi si jih lastniki podjetja želeli zase.
+2. **Proizvodnja za trg/prodajo:** Podjetja običajno izdelujejo stvari zato, da jih prodajo naprej – ne zato, ker bi si jih lastniki podjetja želeli zase.
 
 Pri tem je treba poudariti, da so lastniki in lastnice podjetij večinoma posamezniki. Ne država (čeprav je država lastnica nekaterih podjetij, vsekakor ni lastnica vseh), ne plemiči, ne ljudstvo kot celota. Podjetja – skupaj z njihovimi tovarnami, gradbišči, trgovinami in podobno – so v lasti posameznikov. 
 
