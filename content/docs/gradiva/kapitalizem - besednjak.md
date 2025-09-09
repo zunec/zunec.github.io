@@ -13,7 +13,11 @@ Pojma *ekonomija* in *ekonomski sistem* lahko definiramo na različne načine. M
 
 Ko govorimo o **ekonomiji**, govorimo o vseh tistih rečeh in procesih, ki so vezani na človeško proizvodnjo stvari in storitev. Dejstvo človeškega življenja je namreč to, da če si nekaj želimo ali to potrebujemo, moramo mi – ali nekdo drug – to narediti. Če hočemo na primer čevlje, mora nekdo te čevlje proizvesti. Če hočemo kvalitetno zdravstveno oskrbo, moramo izgraditi bolnišnico, v tej bolnišnici pa morajo zdravniki in zdravnice opravljati svoje delo. Vse, kar je povezano z delom in proizvodno, je torej povezano z ekonomijo.
 
-**Ekonomski sistem** pa govori o tem, kako so v družbi te ekonomske stvari organizirane. Delo in proizvodnja sta lahko namreč organizirana na zelo različne načine. V fevdalizmu je na primer večina dela potekala na kmetijah, zemljo teh kmetij pa si je lastilo plemstvo. V lovsko-nabiralskih družbah se stvari, ki jih člani družb potrebujejo, najdejo neposredno v naravi. Za kapitalizem pa so značilne vse tiste stvari, ki smo jih našteli, ko smo ga obravnavali: zasebna lastnina, plačano delo, profit, konkurenca in tako naprej.
+Proizvedeno pa se potem mora seveda tudi nekako razdeliti med ljudi in navadno tudi porabiti. Ekonomija je zato povezana tudi z trgovanjem, menjavo, distribucijo in porabo proizvedenega.
+
+Splošno rečeno je ekonomija oziroma gospodarstvo področje proizvodnje, distribucije, trgovine ter potrošnje blaga in storitev.
+
+**Ekonomski sistem** pa govori o tem, kako so v družbi te ekonomske stvari organizirane. Delo in proizvodnja sta lahko na primer organizirana na zelo različne načine. V fevdalizmu je na primer večina dela potekala na kmetijah, zemljo teh kmetij pa si je lastilo plemstvo. V lovsko-nabiralskih družbah se stvari, ki jih člani družb potrebujejo, najdejo neposredno v naravi. Za kapitalizem pa so značilne vse tiste stvari, ki smo jih našteli, ko smo ga obravnavali: zasebna lastnina, plačano delo, profit, konkurenca in tako naprej.
 
 ## Kapital
 
